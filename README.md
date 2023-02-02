@@ -33,6 +33,8 @@ Nested groups might look something like below:
                 * brad@blue.com
         * treasurer@non-profit.org (in this example, the Treasurer is on the Events Committee)
             * (see above)
+        * clark.kent@non-profit.org (individual on Events Committee)
+            * kent@dailyplanet.com
 
 ## Optional Features
 
