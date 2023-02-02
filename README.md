@@ -15,24 +15,24 @@ Below are requirements
 
 Nested groups might look something like below:
 * exec-board@non-profit.org
-** president@non-profit.org
-*** jane.doe@non-profit.org
-**** jane.doe@gmail.com
-** vice-president@non-profit.org
-*** john.smith@non-profit.org
-**** jsmith@college.edu
-** secretary@non-profit.org
-*** david.black@non-profit.org
-**** davidb-non-profit@gmail.com
-** treasurer@non-profit.org
-*** amy.white@non-profit.org
-**** amy.n.white@company.com
-** events@non-profit.org
-*** events-chair@non-profit.org
-**** brad.blue@non-profit.org
-***** brad@blue.com
-*** treasurer@non-profit.org
-**** (see above)
+    * president@non-profit.org
+        * jane.doe@non-profit.org
+            * jane.doe@gmail.com
+    * vice-president@non-profit.org
+        * john.smith@non-profit.org
+            * jsmith@college.edu
+    * secretary@non-profit.org
+        * david.black@non-profit.org
+            * davidb-non-profit@gmail.com
+    * treasurer@non-profit.org
+        * amy.white@non-profit.org
+            * amy.n.white@company.com
+    * events@non-profit.org (for the Events Committee)
+        * events-chair@non-profit.org (for the Events Chair)
+            * brad.blue@non-profit.org
+                * brad@blue.com
+        * treasurer@non-profit.org (in this example, the Treasurer is on the Events Committee)
+            * (see above)
 
 ## Optional Features
 
