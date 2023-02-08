@@ -29,7 +29,8 @@ Nested groups might look something like below:
             * amy.n.white@company.com
     * communications@non-profit.org (for the Communications Committee)
         * communications-committee-chair@non-profit.org
-            * ...
+            * peter.parker@non-profit.org
+                * pparker@nynex.net
         * secretary@non-profit.org
             * ...
         * technology-committee-chair@non-profit.org
